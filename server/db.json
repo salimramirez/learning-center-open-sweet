@@ -1,0 +1,30 @@
+{
+  "profiles": [],
+  "users": [],
+  "students": [],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Sample",
+      "description": "Sample Course"
+    },
+    {
+      "id": 2,
+      "title": "Diego",
+      "description": "Diego avanza tu parte"
+    },
+    {
+      "id": 3,
+      "title": "Hola",
+      "description": "to entities from response"
+    },
+    {
+      "id": 4,
+      "title": "Liskov",
+      "description": "Principio de sustitucion de Liskov"
+    }
+  ],
+  "enrollments": [],
+  "progress-record-items": [],
+  "learning-path-items": []
+}
